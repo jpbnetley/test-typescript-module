@@ -1,5 +1,5 @@
 # Test tsc to emit mjs files
-The goal is to setup typescript to emit mjs files when the typescript file is set is `.ts`
+The goal is to setup typescript to emit `.mjs` files when the typescript file is set to `.ts`
 This chapter: https://www.totaltypescript.com/books/total-typescript-essentials/configuring-typescript#how-does-typescript-know-what-module-system-to-emit
 Includes the following table
 
